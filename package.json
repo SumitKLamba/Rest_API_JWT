@@ -1,0 +1,20 @@
+{
+  "name": "Rest_API_JWT",
+  "version": "1.0.0",
+  "description": "Rest_API_JWT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SumitKLamba/Rest_API_JWT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SumitKLamba/Rest_API_JWT/issues"
+  },
+  "homepage": "https://github.com/SumitKLamba/Rest_API_JWT#readme"
+}
